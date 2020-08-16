@@ -1,8 +1,8 @@
 ### Hi there, I'm Fahad Mulla - aka [mdfahadmulla] 👋
 
 ## I'm a Student, Intern, Developer, and YouTuber!
-- 🔭 I’m currently working on a [Front End]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on [Front End]!
+- 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Learn more Everyday
 - ⚡ Fun fact: I love making videos for YouTube and offcourse coding
 
